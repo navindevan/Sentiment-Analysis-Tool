@@ -39,7 +39,7 @@ pip install -r requirements.txt
   - Negative: Polarity < 0
 3. Outputs are displayed in the console and/or saved to new files based on the script used.
 ---
-## 📂 Usage
+## 📘 Usage
 
 Run one of the following scripts depending on your requirement:
 
@@ -47,6 +47,16 @@ Run one of the following scripts depending on your requirement:
 - SATool_InputFilePath.py - To analyze a text file line by line.
 - ATool_UploadTextFile.py - Upload a text file for analysis.
 - SATool_UploadCSVFile.py - Upload a CSV file for analysis.
+---
+## 📂 Input Files
+
+Ensure that the required input files are available for the tools:
+
+1. **Sample_Input.txt**  
+   This text file can be uploaded into the tool **SATool_UploadTextFile.py**. It contains sample data in a text format for processing.
+
+2. **SA_Input.csv**  
+   This CSV file can be uploaded into the tool **SATool_UploadCSVFile.py**. It contains structured data in CSV format to be processed by the script.
 ---
 ## 📝 Contributing
 
