@@ -68,7 +68,8 @@ Ensure that the required input files are available for the tools:
 ---
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE) file for details.
+This project is licensed undet the MIT License. See the [LICENSE.md](LICENSE) file for details.
+
 ---
 ## 📞 Connect
 
